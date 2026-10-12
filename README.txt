@@ -1,4 +1,4 @@
-in this folder there are 3 .zip files that contain the client-side ( React ) => [librarian + patron + rooms] miniapp
+in this folder there are 3 files that contain the client-side ( React ) => [librarian + patron + rooms] miniapp
 in each project of this contain a file name: README.md that describe how to run the project 
 
 
